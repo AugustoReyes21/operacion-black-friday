@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Black Friday
+    orgId: 1
+    folder: Black Friday
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards
