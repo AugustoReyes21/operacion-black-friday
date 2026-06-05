@@ -10,10 +10,6 @@ Video demostrativo:
 
 https://drive.google.com/file/d/1xQNb8c73OyDQwGas1g7dzdRA5hZOAdPt/view?usp=sharing
 
-Repositorio GitHub:
-
-https://github.com/AugustoReyes21/operacion-black-friday
-
 ## 2. Objetivo del proyecto
 
 Determinar con evidencia tecnica si la plataforma esta preparada para soportar carga masiva de usuarios durante Black Friday.
