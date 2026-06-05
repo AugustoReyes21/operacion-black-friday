@@ -5,7 +5,4 @@ videos/
 scripts/demo_video.applescript
 docs/results/*.json
 !docs/results/low-summary.json
-docs/evidences/*.png
-docs/evidences/*.jpg
-docs/evidences/*.jpeg
 .DS_Store
